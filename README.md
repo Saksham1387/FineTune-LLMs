@@ -6,6 +6,10 @@ This repository contains a Jupyter Notebook for fine-tuning the Gemma-7B model u
 
 Each Notebook is named with the correspoding Model name
 
+- **Mistral-7B-Instruct**
+- **Gemma-7B**
+- **Llama2-7B**
+
 
 
 ## Table of Contents
@@ -13,14 +17,11 @@ Each Notebook is named with the correspoding Model name
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Methods](#methods)
   - [LoRA](#lora)
   - [PEFT](#peft)
   - [QLoRA](#qlora)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
